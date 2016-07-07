@@ -1,2 +1,3 @@
 # hello-world
 new repository for learning github
+Erlscott here. I'm new to this whole github thing...
